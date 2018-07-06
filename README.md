@@ -9,14 +9,16 @@
 ```
 
 ## FontAwesome
-иконочки
+
+Сайт: https://fontawesome.com
 
 ```html
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
 ```
 
 ## FancyBox
-галереи, модальные окна
+
+Сайт: http://fancyapps.com/fancybox/3/
 
 ```html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
@@ -25,6 +27,16 @@
 
 ## Affix
 
+Сайт: https://www.w3schools.com/bootstrap/bootstrap_affix.asp
+
 ```html
 <script src='https://cdn.rawgit.com/twbs/bootstrap/v3.3.7/js/affix.js'></script>
+```
+
+## JqueryMask
+
+Сайт: https://igorescobar.github.io/jQuery-Mask-Plugin/
+
+```html
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js'></script>
 ```
