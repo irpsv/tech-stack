@@ -40,3 +40,11 @@
 ```html
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js'></script>
 ```
+
+## Sticky
+
+Хаб: https://github.com/garand/sticky/
+
+```html
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.sticky/1.0.4/jquery.sticky.js'></script>
+```
